@@ -33,6 +33,7 @@ public class HandleDropdownswithSelectTag {
         System.out.println("total number of options:"+ options.size());
 
         // 3. Print options in console window
+        // validate all the options displayed in dropdown
         for(int i=0; i<options.size();i++)
         {
             System.out.println(options.get(i).getText());
