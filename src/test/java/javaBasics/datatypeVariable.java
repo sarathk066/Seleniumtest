@@ -12,25 +12,32 @@ float, double ----------> decimal numbers 10.35
 char   --------------> single character  A or B
 boolean ------------> true/false  */
 
-        int  y= 10000;
-        y =20;// data type as int call 1 or 100  integer number
-        System.out.println(y); // to the statement in console we can use system .out .ptintln()
+
+
+
+        int  Bab= 10864; // int as Data type ,bab - object
+        Bab =10884;// data type as int call 1 or 100  integer number
+        //System.out.println(y); // to the statement in console we can use system .out .ptintln()
         // data type as int
         // vaaribale as x
         // variable value as 100
         // float
+        float x =10.45F;
+        Double Do = 1097733.7565;
+        System.out.println(Do);
         float  f = 10.35F;
         System.out.println(f);
         // Docuble 10.367
-        double d = 10.3567;
+        double d = 10.3567775663;
         System.out.println(d);
         // char single charater
+        char Ab ='A';
         char c ='4';
         System.out.println(c);
         // boolean data type
         // Validate true / false
 
-        boolean b = false;
+        boolean b = true;
         System.out.println(b);
 
           String  s = " sathis";

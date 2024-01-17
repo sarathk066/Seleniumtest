@@ -14,10 +14,10 @@ public class screenshots {
 
     // Find element
 
-    WebElement logo = driver.findElement("");
+   /* WebElement logo = driver.findElement("");
 
     File src = logo.getScreenshotAs(OutputType.FILE);
     file trg= new File(("D:\\"));
-    FileUtils.copyFile(src,trg)''
+    FileUtils.copyFile(src,trg)''*/
 
 }
